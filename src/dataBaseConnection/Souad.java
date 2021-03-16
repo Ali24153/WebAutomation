@@ -8,6 +8,11 @@ public class Souad {
     public int number;
     private String favourite;
 
+    public Souad(){
+
+    }
+
+
 
     public Souad(String name, String lastName, String address, int number, String favourite){
 
