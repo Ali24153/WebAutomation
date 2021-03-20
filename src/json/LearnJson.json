@@ -1,0 +1,20 @@
+{
+"FirstName":"Ali",
+"LastName":"Tadjedit",
+  "Address":
+[{"HomeAddress": "Colmubus,OH"},
+  {"ZipCode": "43220"}]
+},
+{"FirstName":"Amar",
+  "LastName":"Tadjedit",
+   "Address":
+        [{"HomeAddress":"NewYork,NY"},
+        { "ZipCode":"10001"}]
+
+}
+
+[
+
+
+
+]
